@@ -1,4 +1,4 @@
-# Advanced-Data-Science
+# Advanced Data Science Functional Library
 CU Boulder's first advanced datascience course
 
 **Integrations**
